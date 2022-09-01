@@ -1,6 +1,7 @@
-CI/CD pipeline deployment1 - URL Shortner
+<h1> CI/CD pipeline deployment1 - URL Shortner </h1>
 
-Deployment Procedure File: https://github.com/bikigrg11/kuralabs_deployment_1/blob/main/deploy_proc.docx
+<h3> Please download the documentation from :  https://github.com/bikigrg11/kuralabs_deployment_1/blob/main/deploy_proc.docx </h3>
+
 
 Deployment 1                                                                                                            
 Name: Biki Gurung
